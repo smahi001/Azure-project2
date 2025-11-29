@@ -1,1 +1,3 @@
-# Azure-project2
+# perf-test-app
+
+Initial project setup for Azure Performance Testing Project
